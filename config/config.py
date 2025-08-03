@@ -12,10 +12,10 @@ API_ID = int(getenv("API_ID", "27883552"))
 API_HASH = getenv("API_HASH", "03e8a15853d2aa580c52aea314d26711")
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "7381889815:AAGj4XbtsjCfeUfunCcE8q4mtgjVtHvYhaI")
+BOT_TOKEN = getenv("BOT_TOKEN", "8136057336:AAFAnd9Q5qCZOYJt4d4FpMFrWh-Q0elAHuw")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "Pensixmusic_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "herormusic_bot")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://pakeya2:userbot@cluster0.vva0b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
@@ -52,11 +52,11 @@ SONG_DOWNLOAD_DURATION = int(
 )  # Remember to give value in Minutes
 
 # You'll need a Private Group ID for this.
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002869486987"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002712184077"))
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "8107432436").split())
+    map(int, getenv("OWNER_ID", "8210867664").split())
 )  # Input type must be interger
 
 ## Fill these variables if you're deploying on heroku.
@@ -76,10 +76,10 @@ GIT_TOKEN = getenv(
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/kaizenxpensicodex"
+    "SUPPORT_CHANNEL", "https://t.me/xxncom"
 )  # Example:- https://t.me/akaChampu
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/kaijensupport"
+    "SUPPORT_GROUP", "https://t.me/herorrw"
 )  # Example:- https://t.me/TheChampuClub
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
@@ -104,7 +104,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/levine23/stres")
 
 
-# Spotify Client.. Get it from https://developer.spotify.com/dashboard
+# Spotify Client.. Get it from/dashboard
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "27abb49d299c4a9abbd5aba126ad3c69")
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "d7b2393eb88e4acfba14358e8d1eff7d")
 
