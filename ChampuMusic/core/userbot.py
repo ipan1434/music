@@ -93,7 +93,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("TheShivanshu")
+                await self.two.join_chat("pukimakeheh")
                 await self.two.join_chat("TheChampuClub")
                 await self.two.join_chat("akaChampu")
                 await self.two.join_chat("TheChampu")
@@ -142,7 +142,7 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("TheShivanshu")
+                await self.four.join_chat("pukimakeheh")
                 await self.four.join_chat("TheChampuClub")
                 await self.four.join_chat("akaChampu")
                 await self.four.join_chat("TheChampu")
@@ -167,7 +167,7 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("TheShivanshu")
+                await self.five.join_chat("pukimakeheh")
                 await self.five.join_chat("TheChampuClub")
                 await self.five.join_chat("akaChampu")
                 await self.five.join_chat("TheChampu")
