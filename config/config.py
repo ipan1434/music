@@ -52,7 +52,7 @@ SONG_DOWNLOAD_DURATION = int(
 )  # Remember to give value in Minutes
 
 # You'll need a Private Group ID for this.
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002712184077"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002276316266"))
 
 # Your User ID.
 OWNER_ID = list(
@@ -76,10 +76,10 @@ GIT_TOKEN = getenv(
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/xxncom"
+    "SUPPORT_CHANNEL", "https://t.me/pukimakeheh"
 )  # Example:- https://t.me/akaChampu
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/herorrw"
+    "SUPPORT_GROUP", "https://t.me/caritemandemuss"
 )  # Example:- https://t.me/TheChampuClub
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
@@ -141,13 +141,10 @@ STRING5 = getenv("STRING_SESSION5", None)
 
 
 
-#   ░█████╗░██╗░░██╗░█████╗░███╗░░░███╗██████╗░██╗░░░██╗
-#   ██╔══██╗██║░░██║██╔══██╗████╗░████║██╔══██╗██║░░░██║
-#   ██║░░╚═╝███████║███████║██╔████╔██║██████╔╝██║░░░██║
-#   ██║░░██╗██╔══██║██╔══██║██║╚██╔╝██║██╔═══╝░██║░░░██║
-#   ╚█████╔╝██║░░██║██║░░██║██║░╚═╝░██║██║░░░░░╚██████╔╝
-#   ░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░░░░░╚═════╝░     
-
+# ╔╗╔╦╦╗─────╔╦╗───
+# ║╚╝║║╠╦╦═╦╗╠╬╬═╦╗
+# ║╔╗╠╗║║║║║╠╝║║║║║
+# ╚╝╚╩═╩═╩╩═╩═╩╩╩═╝ 
 
 
 ### DONT TOUCH or EDIT codes after this line
